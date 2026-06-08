@@ -44,4 +44,6 @@ docker run --rm mlops-task
   "seed": 42,
   "status": "success"
 }
+<img width="985" height="235" alt="image" src="https://github.com/user-attachments/assets/c97e2d77-6017-48c8-b95d-63528c4727aa" />
+
 ```
